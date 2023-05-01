@@ -5,7 +5,7 @@
 
 # Demo 
 ## live Demo :
-- 
+- [](https://dinil-thilakarathne.github.io/Responsive-Landingpage-Kickz/)
 
 ## Project Preview
 
