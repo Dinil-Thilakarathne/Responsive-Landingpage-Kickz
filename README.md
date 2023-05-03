@@ -1,7 +1,7 @@
 # Responsive landing page - Kickz 
 
 ## Watch Full video on Youtube 
-- 
+- [Watch now](https://www.youtube.com/watch?v=v_0V7-am36g)
 
 # Demo 
 ## live Demo :
